@@ -1,0 +1,29 @@
+.vert-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.column {
+  background-color: white;
+  border-radius: 1rem;
+}
+
+body, html {
+  height: 100%;
+}
+
+h2 {
+  font: Raleway;
+  font-weight: 600;
+  margin: 2rem 2rem 2rem 2rem;
+}
+
+h6 {
+  margin: 2rem 2rem 2rem 2rem;
+}
+
+.button {
+  margin-left: 2rem;
+}
